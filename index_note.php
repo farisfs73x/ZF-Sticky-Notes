@@ -31,7 +31,7 @@ if (isset($_GET['id'])) {
 
     <div class="wrapper">
         <div class="logo">
-            <img src="logo1.png" alt="logo of zf" style="width:15%;height:15%;">
+            <img src="Assets/logo1.png" alt="logo of zf" style="width:15%;height:15%;">
         </div>
 
         <ul class="nav-area">
