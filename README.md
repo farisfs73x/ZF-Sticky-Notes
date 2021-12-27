@@ -1,7 +1,7 @@
 # ZF-Sticky-Notes
 
 
-## <img src="https://c.tenor.com/tuWo2tnew9wAAAAi/statement-calendar.gif" width="45px" height="50px"> Web Development that Emphasizes Safety of the User Data
+## <img src="https://c.tenor.com/tuWo2tnew9wAAAAi/statement-calendar.gif" width="45px" height="50px"> Web Development that Store User Data (notes)
 1. Group Project of Integrated Software Development Workshop (CAT201) Course.
 2. 2 members per group.
 3. My task: Some part of back-end (PHP) and a bit of front-end development.
