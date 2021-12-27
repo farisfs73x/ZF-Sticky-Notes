@@ -1,19 +1,14 @@
-
- 
-
 # ZF-Sticky-Notes
 
 
-## <img src="https://c.tenor.com/YnKbB-1kixMAAAAi/smartparcel-empty-box.gif" width="45px" height="50px"> Web Development that Emphasizes Safety of the User Data
+## <img src="https://c.tenor.com/tuWo2tnew9wAAAAi/statement-calendar.gif" width="45px" height="50px"> Web Development that Emphasizes Safety of the User Data
 1. Group Project of Integrated Software Development Workshop (CAT201) Course.
 2. 2 members per group.
 3. My task: Some part of back-end (PHP) and a bit of front-end development.
----
 
 
 ### <img src="https://c.tenor.com/ubvX6P6dkhUAAAAi/question-mark.gif" width="30px" height="35px"> About
 - Functionality: Store data (notes) from users and display it for them.
----
 
 
 ### <img src="https://raw.githubusercontent.com/farisfs73x/farisfs73x/main/assets/tool.gif" width="30px" height="35px"> Technologies & Tools
